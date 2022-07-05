@@ -1,2 +1,3 @@
-# .github
-GitHub Organization README visible to anyone
+GitHub Organization README visible to anyone. 
+
+See the `profile/README.md` file.
